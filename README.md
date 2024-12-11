@@ -1,2 +1,2 @@
-# ExchangeApp
- A website that shows the exchange rates of the day, integrating an API which allows you to select a currency and get updated results instantly.
+# Tarea-12
+ Este repositorio incluye todos los contenidos a entregar, pertinentes a la tarea 12
